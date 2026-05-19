@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="D:/Practice/aspdotnetcore/csharp-mcp-sample/CSharpMcpClientSample/CSharpMcpClientSample.csproj" />
+  <Project Path="D:/Practice/aspdotnetcore/csharp-mcp-sample/CSharpMcpDapperSample/CSharpMcpDapperSample.csproj" Id="7f120057-527a-4286-8328-228977519201" />
+  <Project Path="D:/Practice/aspdotnetcore/csharp-mcp-sample/CSharpMcpServerSample/CSharpMcpServerSample.csproj" />
+</Solution>

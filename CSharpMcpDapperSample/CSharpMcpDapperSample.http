@@ -1,0 +1,6 @@
+@CSharpMcpDapperSample_HostAddress = http://localhost:5145
+
+GET {{CSharpMcpDapperSample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
